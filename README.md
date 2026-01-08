@@ -1,0 +1,2 @@
+# AI-driven-Virtual_screening-Drug_discovery-for-EBNA1-Multiple_sclerosis
+This project integrates machine learning, virtual screening, molecular docking, ADMET profiling, and molecular dynamics simulations to identify potential inhibitors of EBNA1, a key Epstein–Barr virus protein linked to Multiple Sclerosis. Dynasore and Cavosonstat were identified as promising candidates using a reproducible computational pipeline.
