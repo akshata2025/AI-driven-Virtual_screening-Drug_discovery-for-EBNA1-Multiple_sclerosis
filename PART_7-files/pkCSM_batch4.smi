@@ -1,0 +1,6 @@
+SMILES CID
+CC(C)N(c1cc(-c2ccccc2)sc1C(=O)O)C(=O)[C@H]1CC[C@H](C)CC1	503536.0
+N=C(N)c1ccc2nc(-c3cc(CC(=O)N[C@@H](CC(=O)O)C(=O)O)cc(-c4cc(S(N)(=O)=O)ccc4O)c3O)[nH]c2c1	135425273.0
+CN(C)CC/C=C1/c2ccccc2COc2ccc(CC(=O)O)cc21	5281071.0
+CCCC[C@]1(CC)CS(=O)(=O)c2ccc(N(C)C)cc2[C@@H](c2cccc(NC(=O)N[C@@H]3O[C@H](COS(=O)(=O)O)[C@@H](O)[C@H](OCc4ccccc4)[C@H]3O)c2)[C@H]1O	24987688.0
+O=C1CN2CCOC2(c2ccccc2Cl)c2cc(Cl)ccc2N1	2816.0

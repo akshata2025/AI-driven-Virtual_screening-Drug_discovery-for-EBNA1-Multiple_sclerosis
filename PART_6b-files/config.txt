@@ -1,0 +1,14 @@
+receptor = cleaned_6NPM.pdbqt
+ligand = KVD.pdbqt
+
+center_x = -8.013
+center_y = -33.990
+center_z = -16.275
+
+size_x = 18.85
+size_y = 18.80
+size_z = 15.52
+
+exhaustiveness = 8
+num_modes = 5
+out = 6NPM-KVD.pdbqt
